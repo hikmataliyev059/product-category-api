@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "product-category-api", "product-category-api\product-category-api.csproj", "{657B5242-FA2D-4CF5-9198-AEB7ACDF45AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657B5242-FA2D-4CF5-9198-AEB7ACDF45AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657B5242-FA2D-4CF5-9198-AEB7ACDF45AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657B5242-FA2D-4CF5-9198-AEB7ACDF45AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657B5242-FA2D-4CF5-9198-AEB7ACDF45AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
